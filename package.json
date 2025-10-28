@@ -1,0 +1,44 @@
+{
+  "name": "umnah-birthday-spa",
+  "version": "1.0.0",
+  "description": "A birthday wish application dedicated to Dr. Umnah with a tech-inspired and romantic design.",
+  "main": "src/main.tsx",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.9.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.7.0",
+    "vite": "^7.1.12"
+  },
+  "keywords": [
+    "birthday",
+    "react",
+    "spa",
+    "wishes",
+    "Dr. Umnah"
+  ],
+  "author": "Hussnain",
+  "license": "MIT",
+  "homepage": "https://github.com/yourusername/umnah-birthday-spa",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/umnah-birthday-spa.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/umnah-birthday-spa/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "private": true
+}
