@@ -1,0 +1,10 @@
+:root {
+    --primary-color: #ff6f61; /* Romantic pink */
+    --secondary-color: #6a5acd; /* Tech-inspired blue */
+    --background-color: #f0f8ff; /* Light background */
+    --text-color: #333; /* Dark text for readability */
+    --font-family: 'Arial', sans-serif; /* Base font family */
+    --heading-font-family: 'Georgia', serif; /* Font for headings */
+    --border-radius: 8px; /* Rounded corners */
+    --transition-speed: 0.3s; /* Transition speed for animations */
+}
